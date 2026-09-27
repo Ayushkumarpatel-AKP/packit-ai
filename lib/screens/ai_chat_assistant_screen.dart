@@ -166,7 +166,7 @@ class _AiChatAssistantScreenState extends State<AiChatAssistantScreen> {
         title: const Column(
           children: [
             Text(
-              'PackMind AI Assistant',
+              'PackIT AI Assistant',
               style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16),
             ),
             Text(
@@ -251,7 +251,7 @@ class _AiChatAssistantScreenState extends State<AiChatAssistantScreen> {
                           ),
                           SizedBox(width: 8),
                           Text(
-                            'PackMind AI is thinking...',
+                            'PackIT AI is thinking...',
                             style: TextStyle(
                               fontSize: 11,
                               fontWeight: FontWeight.w600,
@@ -396,7 +396,7 @@ class _AiChatAssistantScreenState extends State<AiChatAssistantScreen> {
                   ),
                   const SizedBox(width: 8),
                   const Text(
-                    'PackMind AI',
+                    'PackIT AI',
                     style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold),
                   ),
                 ],

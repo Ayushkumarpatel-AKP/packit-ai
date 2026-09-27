@@ -441,7 +441,7 @@ class _Package3DViewerState extends State<Package3DViewer>
                       border: Border.all(color: Colors.white, width: 1.2),
                     ),
                     child: const Text(
-                      'PackMind',
+                      'PackIT',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 9.5,

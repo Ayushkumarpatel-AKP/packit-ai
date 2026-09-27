@@ -18,17 +18,17 @@ import 'screens/history_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  runApp(const PackMindApp());
+  runApp(const PackITApp());
 }
 
-class PackMindApp extends StatefulWidget {
-  const PackMindApp({super.key});
+class PackITApp extends StatefulWidget {
+  const PackITApp({super.key});
 
   @override
-  State<PackMindApp> createState() => _PackMindAppState();
+  State<PackITApp> createState() => _PackITAppState();
 }
 
-class _PackMindAppState extends State<PackMindApp> {
+class _PackITAppState extends State<PackITApp> {
   bool _isDarkMode = false;
   bool _hasStarted = false;
 
@@ -48,7 +48,7 @@ class _PackMindAppState extends State<PackMindApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'PackMind AI - Smart Packaging Assistant',
+      title: 'PackIT AI - Smart Packaging Assistant',
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,
       themeMode: _isDarkMode ? ThemeMode.dark : ThemeMode.light,

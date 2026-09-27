@@ -47,7 +47,7 @@ class HomeDashboardScreen extends StatelessWidget {
                       ),
                       const SizedBox(width: 10),
                       Text(
-                        'PackMind AI',
+                        'PackIT AI',
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.w800,

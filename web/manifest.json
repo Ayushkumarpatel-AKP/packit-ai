@@ -1,6 +1,6 @@
 {
-    "name": "packmind_ai",
-    "short_name": "packmind_ai",
+    "name": "packit_ai",
+    "short_name": "packit_ai",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

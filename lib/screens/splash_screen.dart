@@ -114,7 +114,7 @@ class _SplashScreenState extends State<SplashScreen>
                     ),
                     const SizedBox(height: 18),
                     Text(
-                      'PackMind AI',
+                      'PackIT AI',
                       style: TextStyle(
                         fontSize: 32,
                         fontWeight: FontWeight.w900,

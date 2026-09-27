@@ -1,4 +1,4 @@
-# packmind_ai
+# packit_ai
 
 A new Flutter project.
 
